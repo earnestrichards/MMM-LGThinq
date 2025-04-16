@@ -1,8 +1,8 @@
 {
-  "name": "mmm-template",
+  "name": "mmm-lgthinq",
   "version": "1.0.0",
   "description": "[Module description]",
-  "main": "MMM-Template.js",
+  "main": "MMM-LGThinq.js",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
@@ -13,9 +13,9 @@
     "url": "git+[GitHub url].git"
   },
   "keywords": [
-    "template"
+    "lgthinq"
   ],
-  "author": "[Author]",
+  "author": "Earnest Richards",
   "license": "MIT",
   "bugs": {
     "url": "[GitHub url]/issues"
