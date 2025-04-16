@@ -1,4 +1,4 @@
-Module.register("MMM-Template", {
+Module.register("MMM-LGThinq", {
 
   defaults: {
     exampleContent: ""
@@ -8,7 +8,7 @@ Module.register("MMM-Template", {
    * Apply the default styles.
    */
   getStyles() {
-    return ["template.css"]
+    return ["lgthinq.css"]
   },
 
   /**
@@ -40,7 +40,7 @@ Module.register("MMM-Template", {
    */
   getDom() {
     const wrapper = document.createElement("div")
-    wrapper.innerHTML = `<b>Title</b><br />${this.templateContent}`
+    wrapper.innerHTML = `<b>LG Thinq</b><br />${this.templateContent}`
 
     return wrapper
   },
