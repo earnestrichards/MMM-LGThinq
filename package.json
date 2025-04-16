@@ -1,7 +1,7 @@
 {
   "name": "mmm-lgthinq",
   "version": "1.0.0",
-  "description": "[Module description]",
+  "description": "Magic Mirror module for my LG washer and dryer",
   "main": "MMM-LGThinq.js",
   "scripts": {
     "lint": "eslint .",
